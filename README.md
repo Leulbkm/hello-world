@@ -1,4 +1,4 @@
 # hello-world
-hello africa 
-hello ethiopia
-welcome
+hello africa ;
+hello ethiopia ;
+welcome!
